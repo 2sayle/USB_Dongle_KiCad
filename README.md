@@ -1,4 +1,4 @@
-# USB Dongle
+# USB Dongle (KiCad project)
 
 KiCad project to create a custom USB-C key with mass storage
 
