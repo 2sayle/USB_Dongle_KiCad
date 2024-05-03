@@ -31,3 +31,4 @@ fp-info-cache
 # Documents
 ./Documents/*.pdf
 *.pdf
+#auto_saved_files#
