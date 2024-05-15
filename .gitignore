@@ -32,3 +32,4 @@ fp-info-cache
 ./Documents/*.pdf
 *.pdf
 #auto_saved_files#
+USB_Dongle_KiCad.round-tracks-config
