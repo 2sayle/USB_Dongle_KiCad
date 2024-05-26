@@ -37,10 +37,4 @@ Links to additional documentation for the project, such as a user manual or tech
 - [ULPI Interface](http://ww1.microchip.com/downloads/en/DeviceDoc/334x.pdf)
 - [USB ESD Protection](https://www.st.com/resource/en/datasheet/usbulc6-2m6.pdf)
 
-Note: Datasheet are also available by selecting a component and pressing 'D' key, in KiCad schematics editor.
-
-## Contact
-
-Provide contact information for the project maintainer(s), such as an email address or links to relevant websites or social media profiles.
-
-Feel free to modify this template as needed to fit your specific project requirements.
+Note: Datasheets are also available by selecting a component and pressing 'D' key, in KiCad schematics editor.
