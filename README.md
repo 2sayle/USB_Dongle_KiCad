@@ -33,14 +33,6 @@ Explain how to use the project, with examples and screenshots if applicable.
 
 Link to any additional documentation for the project, such as a user manual or technical specifications.
 
-## Contributing
-
-Explain how others can contribute to the project, including guidelines for submitting bug reports, feature requests, or pull requests.
-
-## License
-
-State the license under which the project is released, e.g., MIT, GPL, etc.
-
 ## Contact
 
 Provide contact information for the project maintainer(s), such as an email address or links to relevant websites or social media profiles.
