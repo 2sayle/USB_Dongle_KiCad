@@ -32,7 +32,7 @@ List any software requirements or dependencies needed to use or modify the proje
 ## Installation
 
 ```
-https://github.com/2sayle/USB_Dongle_KiCad.git
+git clone https://github.com/2sayle/USB_Dongle_KiCad.git
 ```
 
 
