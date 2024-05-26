@@ -31,7 +31,11 @@ Explain how to use the project, with examples and screenshots if applicable.
 
 ## Documentation
 
-Link to any additional documentation for the project, such as a user manual or technical specifications.
+Links to additional documentation for the project, such as a user manual or technical specifications.
+- [STM32F730 Reference Manual](https://www.st.com/resource/en/reference_manual/rm0431-stm32f72xxx-and-stm32f73xxx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
+- [STM32F730R8 Datasheet](https://www.st.com/resource/en/datasheet/stm32f730i8.pdf)
+- [ULPI Interface](http://ww1.microchip.com/downloads/en/DeviceDoc/334x.pdf)
+- [USB ESD Protection](https://www.st.com/resource/en/datasheet/usbulc6-2m6.pdf)
 
 ## Contact
 
