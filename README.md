@@ -31,7 +31,10 @@ List any software requirements or dependencies needed to use or modify the proje
 
 ## Installation
 
-Step-by-step instructions for installing and setting up the project locally.
+```
+https://github.com/2sayle/USB_Dongle_KiCad.git
+```
+
 
 ## Usage
 
