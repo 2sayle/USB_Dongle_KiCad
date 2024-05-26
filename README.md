@@ -4,24 +4,14 @@ KiCad project to create a custom USB-C key with mass storage and a microSD conne
 Find all the KiCad schematics and layout files.
 Libraries containing custom footprints and symbols are available in ./Libraries folder.
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Hardware
 
-## Description
-
-A more detailed description of the project, its purpose, and any relevant background information.
-
-## Features
-
-A bulleted list of the key features of the project.
+- USB-C connector
+- USB 2.0 High Speed Interface (through ULPI)
+- STM32F730R8T microcontroller
+- MicroSD connector
+- Power LEDs
+- GPIOs for SWD (Serial Wire Debug)
 
 ## Requirements
 
@@ -34,7 +24,6 @@ List any software requirements or dependencies needed to use or modify the proje
 ```
 git clone https://github.com/2sayle/USB_Dongle_KiCad.git
 ```
-
 
 ## Usage
 
