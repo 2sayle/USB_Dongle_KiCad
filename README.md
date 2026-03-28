@@ -1,5 +1,7 @@
 # USB Dongle (KiCad project)
 
+![PCB view](./Screenshots/USB_Dongle_3D.png)
+
 KiCad project to create a custom USB-C key with mass storage and a microSD connector.
 Find all the KiCad schematics and layout files.
 Libraries containing custom footprints and symbols are available in ./Libraries folder.
